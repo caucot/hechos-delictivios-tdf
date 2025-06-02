@@ -20,6 +20,7 @@ El modelo de clasificación busca categorizar un mes determinado dentro de una d
 Modelos de clasificación que se podrían emplear: Árbol de decisión, K-Nearest Neighbors, SVM.
 ## Estructura del proyecto
 
+```text
 hechos-delictivios-tdf/
 │── data/
 │   ├── raw/                # Datos sin procesar, en su estado original
@@ -42,3 +43,4 @@ hechos-delictivios-tdf/
 │── README.md               # Descripción general del repositorio
 │── requirements.txt        # Dependencias y paquetes necesarios
 │── LICENSE                 # Licencia del proyecto
+```
