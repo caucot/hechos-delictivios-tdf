@@ -38,3 +38,6 @@ hechos-delictivios-tdf/
 │── LICENSE                 # Licencia del proyecto
 │── README.md               # Descripción general del repositorio
 ```
+
+## Video explicativo
+https://drive.google.com/file/d/1Waa1oObrGWJ3pfUfSqEL05ljFcVE09bB/view?usp=sharing
