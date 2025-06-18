@@ -28,12 +28,12 @@ hechos-delictivios-tdf/
 │   ├── external/           # Datos externos de referencia
 │── docs/                   # Documentación del proyecto 
 │── models/                 # Modelos del proyecto
-│── notebooks/              # Jupyter notebooks de limpieaza, analisis y modelos
+│── notebooks/              # Jupyter notebooks de limpieza, analisis y modelos
 ├── references/             # Artículos, papers, papers técnicos o benchmarks
 │── reports/
 │   ├── figures/            # Imágenes y gráficos generados
 │── src/                    # Código fuente del proyecto
-│── .gitattributes              # Atributos de git
+│── .gitattributes          # Atributos de git
 │── .gitignore              # Archivos y carpetas a ignorar en Git
 │── LICENSE                 # Licencia del proyecto
 │── README.md               # Descripción general del repositorio
