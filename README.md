@@ -1,4 +1,3 @@
-
 # Predeccion de hechos delictivos
 
 ## Objetivo General
@@ -26,21 +25,16 @@ hechos-delictivios-tdf/
 │   ├── raw/                # Datos sin procesar, en su estado original
 │   ├── processed/          # Datos limpios y transformados para análisis
 │   ├── interim/            # Datos intermedios o en proceso de transformación
-│   ├── external/           # Datos externos de referencia o complementarios
-│── notebooks/
-│   ├── exploratory/        # Jupyter notebooks para análisis exploratorio
-│   ├── preprocessing/      # Scripts para limpieza y transformación de datos
-│   ├── modeling/           # Scripts para modelos predictivos o analíticos
-│── src/
-│   ├── utils/              # Funciones auxiliares y herramientas de apoyo
-│   ├── visualization/      # Scripts de gráficos y análisis visual
-│   ├── data_processing/    # Scripts de integración y procesamiento de datos
+│   ├── external/           # Datos externos de referencia
+│── docs/                   # Documentación del proyecto 
+│── models/                 # Modelos del proyecto
+│── notebooks/              # Jupyter notebooks de limpieaza, analisis y modelos
+├── references/             # Artículos, papers, papers técnicos o benchmarks
 │── reports/
 │   ├── figures/            # Imágenes y gráficos generados
-│   ├── summaries/          # Reportes y documentos explicativos
-│── docs/                   # Documentación del proyecto y guías de uso
+│── src/                    # Código fuente del proyecto
+│── .gitattributes              # Atributos de git
 │── .gitignore              # Archivos y carpetas a ignorar en Git
-│── README.md               # Descripción general del repositorio
-│── requirements.txt        # Dependencias y paquetes necesarios
 │── LICENSE                 # Licencia del proyecto
+│── README.md               # Descripción general del repositorio
 ```
